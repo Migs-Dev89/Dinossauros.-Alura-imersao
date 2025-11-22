@@ -1,0 +1,79 @@
+[
+  {
+    "nome":"T-rex",
+    "descrição":"O mais conhecido dentre todos",
+    "imagem":"img/T-rex.jpg",
+    "ano":"Cretáceo superior",
+    "link":"https://pt.wikipedia.org/wiki/Tiranossauro"
+  },
+  {
+    "nome":"Giganotossauro",
+    "descrição": "O grande carnívoro sul americano",
+    "imagem":"img/giga.jpg",
+    "ano": "Cretáceo superior",
+    "link":"https://pt.wikipedia.org/wiki/Giganotossauro"
+  },
+  {
+    "nome":"Triceratops",
+    "descrição":"Famoso pelo seu grande folho ósseo e três chifres.",
+    "imagem":"img/tricetops.jpg",
+    "ano":"Cretáceo superior",
+    "link":"https://pt.wikipedia.org/wiki/Triceratops"
+  },
+  {
+    "nome":"Velociraptor",
+    "descrição": "Conhecido por ser um caçador pequeno e inteligente com garras em forma de foice.",
+    "imagem":"img/2raptor.jpg",
+    "ano": "Cretáceo superior",
+    "link":"https://pt.wikipedia.org/wiki/Velociraptor"
+  },
+  {
+    "nome":"Estegossauro",
+    "descrição": "Facilmente reconhecível pelas grandes placas ósseas nas costas e espigões na cauda.",
+    "imagem":"img/estego.jpg",
+    "ano": "Jurássico superior",
+    "link":"https://pt.wikipedia.org/wiki/Stegosaurus"
+  },
+  {
+    "nome":"Deinocheirus",
+    "descrição": "Um dinossauro ornitomimossauro estranho com braços enormes e uma 'corcova' nas costas, parecendo uma mistura de pato e camelo.",
+    "imagem":"img/deinocheirus.jpg",
+    "ano": "Cretáceo superior",
+    "link":"https://pt.wikipedia.org/wiki/Deinocheirus"
+  },
+  {
+    "nome":"Carnotauro",
+    "descrição": "Um predador com chifres distintos acima dos olhos e braços extremamente curtos.",
+    "imagem":"img/carno.jpg",
+    "ano": "Cretáceo superior",
+    "link":"https://pt.wikipedia.org/wiki/Carnotauro"
+  },
+  {
+    "nome":"Irritator",
+    "descrição":"Um dinossauro espinossaurídeo brasileiro, encontrado na Chapada do Araripe.",
+    "imagem":"img/irritatot.jpg",
+    "ano":"Cretáceo Inferior",
+    "link":"https://pt.wikipedia.org/wiki/Irritator"
+  },
+  {
+    "nome":"Santanaraptor",
+    "descrição": "Um pequeno terópode brasileiro, um dos primeiros dinossauros predadores encontrados no Brasil.",
+    "imagem":"img/santanaraptor.jpg",
+    "ano": "Cretáceo Inferior",
+    "link":"https://pt.wikipedia.org/wiki/Santanaraptor"
+  },
+  {
+    "nome":"Spinossauro",
+    "descrição": "O maior dinossauro carnívoro conhecido, famoso pela sua longa vela dorsal e focinho de crocodilo.",
+    "imagem":"img/espinossauro.jpg",
+    "ano": "Cretáceo",
+    "link":"https://pt.wikipedia.org/wiki/Spinosaurus"
+  },
+  {
+    "nome":"Parassaurolofo",
+    "descrição": "Conhecido pela sua crista oca e alongada na cabeça, usada para emitir sons.",
+    "imagem":"img/para.jpg",
+    "ano": "Cretáceo Superior",
+    "link":"https://pt.wikipedia.org/wiki/Parasaurolophus"
+  }
+]
